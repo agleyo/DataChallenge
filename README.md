@@ -13,13 +13,13 @@
 
 `train.py` : Script python permettant d’entrainer les modèles.
 
-`data.py` : Script python générant le jeu de données.
+`data.py` : Script python générant le jeu de données interpolées pour chaque région.
 
-`interpolatedData/` : Dossier contenant les données météorologiques et de consommation électrique pour chaque région.
+`interpolatedData/` : Dossier contenant les données météorologiques et de consommation électrique pour chaque région, généré par data.py.
 
 `models/` : Dossier contenant les modèles entrainés pour chaque région.
 
-`solution_template/` : Dossier contenant le fichier de prédiction et les checkpoints.
+`solution_template/` : Dossier contenant le fichier de prédiction.
 
 
 # Execution du script et prédiction
