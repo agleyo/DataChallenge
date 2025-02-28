@@ -22,7 +22,7 @@
 `solution_template/` : Dossier contenant le fichier de prédiction.
 
 
-# Execution du script et prédiction
+# Execution du script de prédiction
 
 Utiliser le fichier `predict.py`.
 
