@@ -11,9 +11,15 @@
 
 `predict.py` : Script python permettant de générer les prédictions à partir des modèles entrainés.
 
+`train.py` : Script python permettant d’entrainer les modèles.
+
+`data.py` : Script python générant le jeu de données.
+
 `interpolatedData/` : Dossier contenant les données météorologiques et de consommation électrique pour chaque région.
 
 `models/` : Dossier contenant les modèles entrainés pour chaque région.
+
+`solution_template/` : Dossier contenant le fichier de prédiction et les checkpoints.
 
 
 # Execution du script et prédiction
